@@ -7,7 +7,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/egaillardon/jmeter-plugins.svg?style=plastic)](https://hub.docker.com/r/egaillardon/jmeter-plugins/)
 [![Docker Automated build](https://img.shields.io/docker/automated/egaillardon/jmeter-plugins.svg?style=plastic)](https://hub.docker.com/r/egaillardon/jmeter-plugins/)
 [![Docker Build Status](https://img.shields.io/docker/build/egaillardon/jmeter-plugins.svg?style=plastic)](https://hub.docker.com/r/egaillardon/jmeter-plugins/)
-[![Build Status](https://dev.azure.com/darrentingle1/Parts%20Unlimited/_apis/build/status/PartsUnlimitedE2E?branchName=master)](https://dev.azure.com/darrentingle1/Parts%20Unlimited/_build/latest?definitionId=1&branchName=master)
 
 [![Github Stars](https://img.shields.io/github/stars/egaillardon/jmeter-plugins.svg?style=social)](https://github.com/egaillardon/jmeter-plugins)
 [![Github Forks](https://img.shields.io/github/forks/egaillardon/jmeter-plugins.svg?style=social)](https://github.com/egaillardon/jmeter-plugins)
