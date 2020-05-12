@@ -8,7 +8,7 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/egaillardon/jmeter-plugins.svg?style=plastic)](https://hub.docker.com/r/egaillardon/jmeter-plugins/)
 [![Docker Build Status](https://img.shields.io/docker/build/egaillardon/jmeter-plugins.svg?style=plastic)](https://hub.docker.com/r/egaillardon/jmeter-plugins/)
 
-[![Build status](https://dev.azure.com/darrentingle1/Parts%20Unlimited/_apis/build/status/PartsUnlimitedE2E)](https://dev.azure.com/darrentingle1/Parts%20Unlimited/_build/latest?definitionId=1)
+https://dev.azure.com/darrentingle1/Parts%20Unlimited/_apis/build/status/PartsUnlimitedE2E?branchName=master
 
 
 [![Github Stars](https://img.shields.io/github/stars/egaillardon/jmeter-plugins.svg?style=social)](https://github.com/egaillardon/jmeter-plugins)
